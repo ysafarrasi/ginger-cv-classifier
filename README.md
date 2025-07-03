@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# ginger-classification-ai
+=======
 
 # 🌿 Ginger Classification - Klasifikasi Jenis Jahe
 
@@ -78,3 +81,4 @@ python src/predict.py --image path/to/image.jpg
 
 - Pastikan dataset cukup representatif untuk masing-masing jenis jahe  
 - Model dan script dapat dikembangkan untuk keperluan lain, seperti klasifikasi tanaman lain  
+>>>>>>> f321ff57ae94b994bba5307fc10b5200f3c63507
